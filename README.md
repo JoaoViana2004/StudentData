@@ -4,11 +4,11 @@ Este repositório contém a análise de um conjunto de dados relacionado aos ní
 
 ## Dados
 
-O conjunto de dados utilizado neste projeto é obtido do [kagle](https://www.kaggle.com/datasets/sonia22222/students-mental-health-assessments?resource=download). Ele contém informações sobre os níveis de ansiedade, depressão e estresse em estudantes, incluindo características acadêmicas e outros fatores relevantes.
+O conjunto de dados utilizado neste projeto foi obtido do [kagle](https://www.kaggle.com/datasets/sonia22222/students-mental-health-assessments?resource=download). Ele contém informações sobre os níveis de ansiedade, depressão e estresse em estudantes, incluindo características acadêmicas e outros fatores relevantes.
 
 ## Objetivos
 
-Responder as seguintes perguntass:
+Responder as seguintes perguntas:
 
 - Perg1;
 - Perg2;
@@ -29,9 +29,9 @@ Os resultados e conclusões desta análise estão disponíveis [aqui](link_para_
 
 Este trabalho esta sendo desenvolvido por:
 
-- João Pedro Viana
-- Luiz Alberto
-- Kaio Welington
+- João Pedro Viana                  (Matricula: 20220006958)
+- Luiz Alberto Rezende Costa        (Matricula: 20220006994)
+- Kaio Wellinghton Batista e Silva  (Matricula: 20220097059)
 
 Contribuições são bem-vindas! Se você quiser colaborar, por favor, abra uma issue ou envie um pull request.
 
