@@ -10,9 +10,9 @@ O conjunto de dados utilizado neste projeto foi obtido do [kagle](https://www.ka
 
 Responder as seguintes perguntas:
 
-- Perg1;
-- Perg2;
-- Perg3;
+- A qualidade de sono e o nivel de estresse são inversamente proporcionais?;
+- Há uma diferença nos níveis de ansiedade entre alunos que usam serviços de aconselhamento e os que não usam ?;
+- Qual é o impacto da atividade física na depressão dos estudantes?
 
 ## Estrutura do Repositório
 
