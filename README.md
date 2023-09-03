@@ -4,7 +4,11 @@ Este repositório contém a análise de um conjunto de dados relacionado aos ní
 
 ## Dados
 
-O conjunto de dados utilizado neste projeto foi obtido do [kagle](https://www.kaggle.com/datasets/sonia22222/students-mental-health-assessments?resource=download). Ele contém informações sobre os níveis de ansiedade, depressão e estresse em estudantes, incluindo características acadêmicas e outros fatores relevantes.
+O conjunto de dados utilizado podem ser acessados aqui:
+
+- [Descrição dos dados](https://github.com/JoaoViana2004/StudentData/blob/main/descricao_dos_dados.md). 
+
+Ele contém informações sobre os níveis de ansiedade, depressão e estresse em estudantes, incluindo características acadêmicas e outros fatores relevantes.
 
 ## Objetivos
 
